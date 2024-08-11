@@ -1,0 +1,1 @@
+print('indra','reddy', sep='-')
